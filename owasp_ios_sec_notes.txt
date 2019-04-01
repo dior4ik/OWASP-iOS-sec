@@ -12,3 +12,11 @@ http://apt.thebigboss.org/repofiles/cydia/
 http://cydia.radare.org/
 http://apt.modmyi.com/
 http://coolstar.org/publicrepo/
+
+OWASP MSTG:
+
+https://github.com/OWASP/owasp-mstg
+
+OWASP Mobile Top-10:
+
+https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10
