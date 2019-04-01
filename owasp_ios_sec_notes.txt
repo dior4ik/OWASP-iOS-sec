@@ -1,1 +1,14 @@
-List of tools
+List of repositories:
+
+http://cydia.iphonecake.com
+http://apt.saurik.com/
+http://repo.nesolabs.de/
+https://build.frida.re/
+http://appsec-labs.com/cydia/
+http://cydia.zodttd.com/repo/cydia/
+http://mobiletools.mwrinfosecurity.com/cydia/
+http://repo666.ultrasn0w.com/
+http://apt.thebigboss.org/repofiles/cydia/
+http://cydia.radare.org/
+http://apt.modmyi.com/
+http://coolstar.org/publicrepo/
