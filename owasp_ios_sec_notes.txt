@@ -20,3 +20,7 @@ https://github.com/OWASP/owasp-mstg
 OWASP Mobile Top-10:
 
 https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10
+
+Burp Suite Mobile Assistant:
+
+https://portswigger.net/burp/documentation/desktop/tools/mobile-assistant/installing
