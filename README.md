@@ -1,4 +1,17 @@
-List of repositories:
+# OWASP MSTG:
+
+https://github.com/OWASP/owasp-mstg
+
+#OWASP Mobile Top-10:
+
+https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10
+
+# Jailbreake inforamtion:
+
+https://www.theiphonewiki.com/wiki/jailbreak
+https://jailbreak-me.info/check-jailbreak/
+
+# List of Cydia repositories:
 
 http://cydia.iphonecake.com
 http://apt.saurik.com/
@@ -13,14 +26,8 @@ http://cydia.radare.org/
 http://apt.modmyi.com/
 http://coolstar.org/publicrepo/
 
-OWASP MSTG:
 
-https://github.com/OWASP/owasp-mstg
 
-OWASP Mobile Top-10:
-
-https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10
-
-Burp Suite Mobile Assistant:
+# Burp Suite Mobile Assistant:
 
 https://portswigger.net/burp/documentation/desktop/tools/mobile-assistant/installing
