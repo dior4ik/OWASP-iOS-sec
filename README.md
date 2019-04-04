@@ -10,6 +10,7 @@
 
 - https://www.theiphonewiki.com/wiki/jailbreak
 - https://jailbreak-me.info/check-jailbreak/
+- https://www.reddit.com/r/jailbreak/wiki/escapeplan/guides/jailbreakcharts
 
 # List of Cydia repositories:
 
@@ -37,3 +38,8 @@
 # Burp Suite Mobile Assistant (only for iOS 8.x and 9.x):
 
 - https://portswigger.net/burp/documentation/desktop/tools/mobile-assistant/installing
+
+# Vulnerable apps:
+
+- igoat: https://github.com/OWASP/igoat
+- DVIA: http://damnvulnerableiosapp.com/#downloads
