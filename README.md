@@ -2,7 +2,7 @@
 
 https://github.com/OWASP/owasp-mstg
 
-#OWASP Mobile Top-10:
+# OWASP Mobile Top-10:
 
 https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10
 
@@ -26,7 +26,13 @@ http://cydia.radare.org/
 http://apt.modmyi.com/
 http://coolstar.org/publicrepo/
 
+# iOS penetration testing cheatsheet:
 
+https://github.com/ansjdnakjdnajkd/iOS
+
+# Mobile Application Penetration Testing Cheat Sheet:
+
+https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 
 # Burp Suite Mobile Assistant:
 
